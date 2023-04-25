@@ -1,7 +1,6 @@
 {
   "name": "ecomwebsite",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -15,5 +14,17 @@
     "express.js": "^1.0.0",
     "firebase-admin": "^10.0.2",
     "nodemon": "^2.0.15"
-  }
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinevv/clothing-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinevv/clothing-store/issues"
+  },
+  "homepage": "https://github.com/vinevv/clothing-store#readme",
+  "description": ""
 }
